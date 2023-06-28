@@ -21,9 +21,9 @@ function Header() {
         <img src={people} alt='people'/>
           <p>A lot of people use this, trust us a lot of customers will be users</p>
         </div>
-        <div className='gpt3__header-image'>
-          <img alt="ai"/>
-        </div>
+      </div>
+      <div className='gpt3__header-image'>
+          <img src={ai} alt="ai"/>
       </div>
     </div>
   )
